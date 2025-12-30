@@ -1,4 +1,4 @@
-# 🎬 MovieReviews – AI Sentiment Analysis System
+# 🎬 MovieReviews – Sentiment Analysis System
 
 **MovieReviews** is an intelligent AI-based application that analyzes movie review text
 and classifies it as **Positive** or **Negative** sentiment.  
